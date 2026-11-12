@@ -1,0 +1,12 @@
+﻿**/node_modules/
+**/dist/
+**/build/
+**/.env
+**/.env.*
+!**/.env.example
+**/uploads/*
+!**/uploads/.gitkeep
+*.zip
+cm-kerala-backend1/
+cm-kerala-frontend-2/
+cm-kerala-submission-docs/
